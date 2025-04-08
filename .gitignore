@@ -1,0 +1,15 @@
+# Enviroments
+DEMON_AI_ENV/
+venv/
+ 
+**/__pycache__  
+*.py[cod]  
+*.log  
+*.npz  
+*.zip  
+logs/  
+data/  
+models/  
+.DS_Store  
+.idea/  
+.vscode/  
